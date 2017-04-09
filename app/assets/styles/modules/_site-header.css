@@ -65,7 +65,10 @@
       height: 3px;
       background-color: #FFF;
       transition: all .3s ease-out;
+<<<<<<< HEAD
       transform-origin: 0 50%;
+=======
+>>>>>>> header
     }
     &::after {
       content: "";
