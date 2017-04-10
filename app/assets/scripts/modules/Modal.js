@@ -18,6 +18,7 @@ class Modal {
 
     $(document).keyup(this.keyPressHandler.bind(this));
 
+
   }
 
   keyPressHandler(e){
