@@ -20,7 +20,7 @@ class Modal {
 
 
   }
-
+//27 is the keycode for esc. all key have numbers.
   keyPressHandler(e){
     if(e.keyCode == 27){
       this.closeModal();

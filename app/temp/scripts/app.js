@@ -11183,6 +11183,8 @@ var Modal = function () {
 
       (0, _jquery2.default)(document).keyup(this.keyPressHandler.bind(this));
     }
+    //27 is the keycode for esc. all key have numbers.
+
   }, {
     key: "keyPressHandler",
     value: function keyPressHandler(e) {
