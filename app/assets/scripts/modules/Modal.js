@@ -18,6 +18,10 @@ class Modal {
 
     $(document).keyup(this.keyPressHandler.bind(this));
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> create-modal
   }
 
   keyPressHandler(e){
