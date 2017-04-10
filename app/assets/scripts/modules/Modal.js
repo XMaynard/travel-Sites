@@ -18,7 +18,10 @@ class Modal {
 
     $(document).keyup(this.keyPressHandler.bind(this));
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> create-modal
   }
 //27 is the keycode for esc. all key have numbers.
   keyPressHandler(e){
